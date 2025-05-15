@@ -27,3 +27,7 @@ Main Screen
 In Game
 
 ![Screenshot_56](https://user-images.githubusercontent.com/48734821/146188443-031952e3-38fe-433e-9270-5cff5266e712.png)
+
+
+<br>
+Learning Git rn.
